@@ -58,7 +58,7 @@
 
 Geth is one of the ethereum clients.
 
-<img src="D:\Reinstate 2022\Digital Twin\assets\Ethereum Clients.png" style="zoom:110%;" />
+<img src="assets\Ethereum Clients.png" style="zoom:110%;" />
 
 Geth is :
 
@@ -71,7 +71,7 @@ Here is the visualization of Externally Owned Account (EOA) generation on Geth :
 
 
 
-<img src="D:\Reinstate 2022\Digital Twin\assets\EOAs.png" style="zoom:110%;" />
+<img src="assets\EOAs.png" style="zoom:110%;" />
 
 
 
@@ -222,7 +222,7 @@ $ geth --datadir keystore --networkid 575800 --nat extip:34.204.143.145
 
 Here is the visualization of how javascript console on geth :
 
-<img src="D:\Reinstate 2022\Digital Twin\assets\JSON-RPC.png" style="zoom:110%;" />
+<img src="assets\JSON-RPC.png" style="zoom:110%;" />
 
 
 
@@ -234,7 +234,7 @@ Here is the visualization of how javascript console on geth :
 
 
 
-<img src="D:\Reinstate 2022\Digital Twin\assets\IPC-HTTP.png" style="zoom:110%;" />
+<img src="assets\IPC-HTTP.png" style="zoom:110%;" />
 
 Here command to initiate javascript console via IPC :
 
